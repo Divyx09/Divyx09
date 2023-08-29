@@ -1,4 +1,4 @@
-![Header](./roadmap-to-become-a-full-stack-developer_Image_blogs.png)
+![Header](./gif1.gif)
 <h1 align="center">Hi 👋, I'm Divya Attarde</h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="gif.gif">
