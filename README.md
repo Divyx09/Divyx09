@@ -1,11 +1,9 @@
 ![Header](./roadmap-to-become-a-full-stack-developer_Image_blogs.png)
 <h1 align="center">Hi 👋, I'm Divya Attarde</h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
-<!-- <img align="right" alt="Coding" width="400" src="gif">
- -->
- <video width="320" height="240" controls>
-  <source src="gif.gif" type="video/mp4">
-</video>
+<img align="right" alt="Coding" width="400" src="gif.gif">
+
+
 - 🔭 I’m currently working on **Assistant Bot**
 
 - 🌱 I’m currently learning **Nodemon,Express**
