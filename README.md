@@ -1,7 +1,7 @@
 ![Header](./roadmap-to-become-a-full-stack-developer_Image_blogs.png)
 <h1 align="center">Hi 👋, I'm Divya Attarde</h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="[[roadmap-to-become-a-full-stack-developer_Image_blogs.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.technoloader.com%2Fblog%2Fhire-mean-stack-developer%2F&psig=AOvVaw13KlMFfADYijRD9lnn6tWF&ust=1693418815571000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDvj-i6goEDFQAAAAAdAAAAABAE)](https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif)">
+<img align="right" alt="Coding" width="400" src="gif">
 
 - 🔭 I’m currently working on **Assistant Bot**
 
