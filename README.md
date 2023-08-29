@@ -1,3 +1,4 @@
+<body style="backgroud-color:black">
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Divya Attarde</h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
