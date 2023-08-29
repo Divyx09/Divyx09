@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Divya Attarde</h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyways.ai%2Fcareer-wiki%2Fblogs%2Fview%2Froadmap-to-become-a-full-stack-developer&psig=AOvVaw0Sr8lKtkjY_LxV0W5glfpy&ust=1693418490471000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCvls25goEDFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400" src="./roadmap-to-become-a-full-stack-developer_Image_blogs.png">
 
 - 🔭 I’m currently working on **Assistant Bot**
 
