@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="gif.gif">
 
 
-- 🔭 I’m currently working on **Assistant Bot** 
+- 🔭 I’m currently working on **React,Java and SQL** 
 
 - 🌱 I’m currently learning **Nodemon,Express**
 
