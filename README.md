@@ -8,7 +8,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Divy Attarde) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divyx09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Divya Attarde) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@divyaattarde94) 
 
 # 💫 About Me:
-🔭 I’m currently working on React,Java and SQL<br><br>🌱 I’m currently learning Advance JavaScript<br><br>🤝 I’m looking for help with MySQL<br><br>👨‍💻 All of my projects are available at https://github.com/Divyx09<br><br>💬 Ask me about Java, Python, and Frontend Tecnologies<br><br>📫 How to reach me divyaattarde94@gmail.com<br><br>⚡ Fun fact I look future to be a success Developer
+🔭 I’m currently working on React and Java<br><br>🌱 I’m currently learning Advance JavaScript<br><br>🤝 I’m looking for help with MySQL<br><br>👨‍💻 All of my projects are available at https://github.com/Divyx09<br><br>💬 Ask me about Java, Python, and Frontend Tecnologies<br><br>📫 How to reach me divyaattarde94@gmail.com<br><br>⚡ Fun fact I look future to be a success Developer
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Divyx09&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Divyx09&theme=dark&hide_border=false)<br/>
