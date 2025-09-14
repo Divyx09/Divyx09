@@ -138,7 +138,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyx09&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=Divyx09&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Divyx09&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 </div>
 
 ### 🏆 GitHub Achievements
@@ -148,7 +148,7 @@
 
 ### 📈 Contribution Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Divyx09&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyx09&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
 ### 🔝 Top Contributed Repositories
