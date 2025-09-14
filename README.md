@@ -125,8 +125,6 @@
 
 --- 
 
-# 💫 About Me:
-🔭 I’m currently working on React and Java<br><br>🌱 I’m currently learning Advance JavaScript<br><br>🤝 I’m looking for help with MySQL<br><br>👨‍💻 All of my projects are available at https://github.com/Divyx09<br><br>💬 Ask me about Java, Python, and Frontend Tecnologies<br><br>📫 How to reach me divyaattarde94@gmail.com<br><br>⚡ Fun fact I look future to be a success Developer
 ## 📊 GitHub Analytics & Performance
 
 <div align="center">
