@@ -14,8 +14,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/github-profile-views?username=Divyx09&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Divyx09?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+  <img src="https://komarev.com/github-profile-views?username=Divyx09&label=Profile%20Views&color=brightgreen&style=flat-square&refresh=true" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Divyx09?label=Followers&style=flat-square&color=blue&cache_seconds=3600" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-orange?style=flat-square" alt="Focus" />
 </p>
 
@@ -132,18 +132,18 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Divyx09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyx09&theme=tokyonight&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Divyx09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Divyx09&theme=tokyonight&hide_border=false"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyx09&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyx09&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Divyx09&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 </div>
 
 ### 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Divyx09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Divyx09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&cache_seconds=1800"/>
 </div>
 
 ### 📈 Contribution Activity
@@ -153,7 +153,7 @@
 
 ### 🔝 Top Contributed Repositories
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Divyx09&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Divyx09&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache_seconds=1800"/>
 </div>
 
 ---
@@ -209,6 +209,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling&fontAlignY=40&descAlign=60"/>
 
 [![](https://visitcount.itsvg.in/api?id=Divyx09&icon=2&color=6)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Divyx09&theme=tokyonight&layout=compact&cache_seconds=1800" alt="Wakatime Stats"/>
+</div>
 
 **⭐ Star some repositories if you find them interesting!**
 
